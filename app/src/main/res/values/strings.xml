@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickableMapView</string>
+    <string name="select_your_region">Select your region</string>
+    <string name="tap_on_a_state">Tap on a state</string>
+</resources>
