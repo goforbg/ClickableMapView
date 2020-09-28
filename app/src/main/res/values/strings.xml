@@ -2,4 +2,25 @@
     <string name="app_name">ClickableMapView</string>
     <string name="select_your_region">Select your region</string>
     <string name="tap_on_a_state">Tap on a state</string>
+    <string name="choose_map">Choose Map</string>
+    <string name="all_maps">ALL MAPS</string>
+    <string name="india">India</string>
+    <string name="nepal">Nepal</string>
+
+    <!-- NEPAL -->
+    <string name="np_state_gandaki">Gandaki</string>
+    <string name="np_state_bheri">Bheri</string>
+    <string name="np_state_dhawalagiri">Dhawalagiri</string>
+    <string name="np_state_karnali">Karnali</string>
+    <string name="np_state_lumbini">Lumbini</string>
+    <string name="np_state_mahakali">Mahakali</string>
+    <string name="np_state_seti">Seti</string>
+    <string name="np_state_bagmati">Bagmati</string>
+    <string name="np_state_janakpur">Janakpur</string>
+    <string name="np_state_narayani">Narayani</string>
+    <string name="np_state_sagarmatha">Sagarmatha</string>
+    <string name="np_state_koshi">Koshi</string>
+    <string name="np_state_mechi">Mechi</string>
+    <string name="np_state_rapti">Rapti</string>
+
 </resources>
