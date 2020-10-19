@@ -50,6 +50,9 @@ class MapFragment : Fragment() {
             resources.getString(R.string.nepal) -> {
                 rpv_map.setVectorDrawable(R.drawable.ic_nepal_map)
             }
+            resources.getString(R.string.spain) -> {
+                rpv_map.setVectorDrawable(R.drawable.ic_spain_map)
+            }
         }
 
         rpv_map?.setOnPathClickListener { richPath ->

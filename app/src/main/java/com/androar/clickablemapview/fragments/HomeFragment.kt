@@ -37,7 +37,10 @@ class HomeFragment: Fragment() {
         tv_nepal.setOnClickListener {
             interactionListener?.onClickCountry(resources.getString(R.string.nepal))
         }
-    }
+
+        tv_spain.setOnClickListener {
+            interactionListener?.onClickCountry(resources.getString(R.string.spain))
+        }    }
 
     override fun onAttach(context: Context) {
         super.onAttach(context)

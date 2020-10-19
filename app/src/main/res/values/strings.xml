@@ -6,6 +6,7 @@
     <string name="all_maps">ALL MAPS</string>
     <string name="india">India</string>
     <string name="nepal">Nepal</string>
+    <string name="spain">Spain</string>
 
     <!-- NEPAL -->
     <string name="np_state_gandaki">Gandaki</string>
@@ -54,4 +55,59 @@
     <string name="in_state_uttar_pradesh">Uttar Pradesh</string>
     <string name="in_state_uttarakhand">Uttarakhand</string>
     <string name="in_state_west_bengal">West Bengal</string>
+
+
+    <!-- SPAIN -->
+    <string name="es_state_a_coruña">A Coruña</string>
+    <string name="es_state_alava">Álava</string>
+    <string name="es_state_albacete">Albacete</string>
+    <string name="es_state_alicante">Alicante</string>
+    <string name="es_state_almeria">Almería</string>
+    <string name="es_state_asturias">Asturias</string>
+    <string name="es_state_avila">Ávila</string>
+    <string name="es_state_badajoz">Badajoz</string>
+    <string name="es_state_balears">Balears</string>
+    <string name="es_state_barcelona">Barcelona</string>
+    <string name="es_state_burgos">Burgos</string>
+    <string name="es_state_caceres">Cáceres</string>
+    <string name="es_state_cadiz">Cádiz</string>
+    <string name="es_state_cantabria">Cantabria</string>
+    <string name="es_state_castellon">Castellón</string>
+    <string name="es_state_ceuta">Ceuta</string>
+    <string name="es_state_ciudad_real">Ciudad Real</string>
+    <string name="es_state_cordoba">Córdoba</string>
+    <string name="es_state_cuenca">Cuenca</string>
+    <string name="es_state_girona">Girona</string>
+    <string name="es_state_granada">Granada</string>
+    <string name="es_state_guadalajara">Guadalajara</string>
+    <string name="es_state_guipuzcoa">Guipúzcoa</string>
+    <string name="es_state_huelva">Huelva</string>
+    <string name="es_state_huesca">Huesca</string>
+    <string name="es_state_jaen">Jaén</string>
+    <string name="es_state_la_rioja">La Rioja</string>
+    <string name="es_state_las_palmas">Las Palmas</string>
+    <string name="es_state_leon">León</string>
+    <string name="es_state_lleida">Lleida</string>
+    <string name="es_state_lugo">Lugo</string>
+    <string name="es_state_madrid">Madrid</string>
+    <string name="es_state_malaga">Málaga</string>
+    <string name="es_state_melilla">Melilla</string>
+    <string name="es_state_murcia">Murcia</string>
+    <string name="es_state_navarra">Navarra</string>
+    <string name="es_state_ourense">Ourense</string>
+    <string name="es_state_palencia">Palencia</string>
+    <string name="es_state_pontevedra">Pontevedra</string>
+    <string name="es_state_salamanca">Salamanca</string>
+    <string name="es_state_santa_cruz_de_tenerife">Santa Cruz de Tenerife</string>
+    <string name="es_state_segovia">Segovia</string>
+    <string name="es_state_sevilla">Sevilla</string>
+    <string name="es_state_soria">Soria</string>
+    <string name="es_state_tarragona">Tarragona</string>
+    <string name="es_state_teruel">Teruel</string>
+    <string name="es_state_toledo">Toledo</string>
+    <string name="es_state_valencia">Valencia</string>
+    <string name="es_state_valladolid">Valladolid</string>
+    <string name="es_state_vizcaya">Vizcaya</string>
+    <string name="es_state_zamora">Zamora</string>
+    <string name="es_state_zaragoza">Zaragoza</string>
 </resources>
