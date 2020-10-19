@@ -23,4 +23,35 @@
     <string name="np_state_mechi">Mechi</string>
     <string name="np_state_rapti">Rapti</string>
 
+    <!-- INDIA -->
+    <string name="in_state_andaman_and_nicobar">Andaman and Nicobar</string>
+    <string name="in_state_andhra_pradesh">Andhra Pradesh</string>
+    <string name="in_state_arunachal_pradesh">Arunachal Pradesh</string>
+    <string name="in_state_assam">Assam</string>
+    <string name="in_state_bihar">Bihar</string>
+    <string name="in_state_chhattisgarh">Chhattisgarh</string>
+    <string name="in_state_goa">Goa</string>
+    <string name="in_state_gujarat">Gujarat</string>
+    <string name="in_state_himachal_pradesh">Himachal Pradesh</string>
+    <string name="in_state_haryana">Haryana</string>
+    <string name="in_state_jharkhand">Jharkhand</string>
+    <string name="in_state_jammu_and_kashmir">Jammu and Kashmir</string>
+    <string name="in_state_karnataka">Karnataka</string>
+    <string name="in_state_kerala">Kerala</string>
+    <string name="in_state_maharashtra">Maharashtra</string>
+    <string name="in_state_meghalaya">Meghalaya</string>
+    <string name="in_state_manipur">Manipur</string>
+    <string name="in_state_madhya_pradesh">Madhya Pradesh</string>
+    <string name="in_state_mizoram">Mizoram</string>
+    <string name="in_state_nagaland">Nagaland</string>
+    <string name="in_state_odisha">Odisha</string>
+    <string name="in_state_punjab">Punjab</string>
+    <string name="in_state_rajasthan">Rajasthan</string>
+    <string name="in_state_sikkim">Sikkim</string>
+    <string name="in_state_telangana">Telangana</string>
+    <string name="in_state_tamil_nadu">Tamil Nadu</string>
+    <string name="in_state_tripura">Tripura</string>
+    <string name="in_state_uttar_pradesh">Uttar Pradesh</string>
+    <string name="in_state_uttarakhand">Uttarakhand</string>
+    <string name="in_state_west_bengal">West Bengal</string>
 </resources>
